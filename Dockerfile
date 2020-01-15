@@ -9,6 +9,6 @@ COPY .env           /app
 
 RUN npm i
 
-EXPOSE 3001
+EXPOSE 3002
 
 CMD npm start
