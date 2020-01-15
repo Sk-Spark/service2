@@ -5,7 +5,7 @@ function About() {
     return (
         <div className="App">
             <header className="App-header">
-                <p>About Dockers</p>               
+                <p>Dockers References</p>               
 
                 <table>
                     <tr className="tr1" >
