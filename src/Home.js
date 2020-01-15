@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo-docker.svg';
+import logo from './logo-k8s.svg';
 import './App.css';
 
 function Home() {
@@ -9,13 +9,13 @@ function Home() {
         <p>HOME</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Docker is great.
+         Kubernetes is great.
         </p>
         <a
           className="App-link"
           href="/about"
         >
-          Learn more about Dockers
+          Learn more about Kubernetes
         </a>
       </header>
     </div>

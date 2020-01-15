@@ -5,20 +5,20 @@ function About() {
     return (
         <div className="App">
             <header className="App-header">
-                <p>Dockers References</p>               
+                <p>Kubernetes References</p>               
 
                 <table>
                     <tr className="tr1" >
-                        <td>Docker</td>
-                        <td>docker.com</td>
+                        <td>Kubernetes</td>
+                        <td>kubernetes.io</td>
                     </tr>
                     <tr  className="tr2" >
-                        <td>Get Started with docker</td>
-                        <td>https://www.docker.com/products/docker-desktop</td>
+                        <td>Get Started with Kubernetes</td>
+                        <td>https://kubernetes.io/docs/setup/</td>
                     </tr>
                     <tr  className="tr1" >
-                        <td>Docker Docs </td>
-                        <td>https://docs.docker.com</td>
+                        <td>Kubernetes Docs </td>
+                        <td>https://kubernetes.io/docs/home/</td>
                     </tr>
                 </table>
 
